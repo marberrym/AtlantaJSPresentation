@@ -51,7 +51,7 @@ export default (BaseComponent) =>
 @size[.4em](Matthew Marberry)
 @fa[envelope-o margin-sides]
 @size[.4em](marberrym@gmail.com)
-<img src="/template/img/MMLogoColored.png" class="logo">
+@fa[globe margin-sides]
 @size[.4em](matthew-marberry.com)
 @snapend
 
