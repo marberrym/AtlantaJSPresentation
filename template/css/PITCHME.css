@@ -111,6 +111,12 @@
   width: 70%;
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .about-team-bio {
   font-size: 0.6em !important;
 }

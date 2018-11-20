@@ -2,11 +2,13 @@
 
 @title[About the dev]
 
-@snap[south text-white span-100]
+@snap[south text-white span-100 footer]
 @fa[fab fa-github-square]
 @size[.4em](marberrym)
 @fa[fab fa-linkedin]
 @size[.4em](Matthew Marberry)
+![Matt](template/img/MMLogoColored.png)
+@size[.4em](matthew-marberry.com)
 @snapend
 
 @snap[east span-40 about-team-pic]

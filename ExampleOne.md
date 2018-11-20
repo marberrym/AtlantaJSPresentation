@@ -44,11 +44,13 @@ export default (BaseComponent) =>
 @[17-25](After the component is mounted it adds an event listener on the window.  Every time it is resized it will update the values in the state of **WindowSize**)
 @[26-34](Our wrapper class will then return the **BaseComponent** with the state of **WindowSize** and any props it may have)
 
-@snap[south text-white span-100]
+@snap[south text-white span-100 footer]
 @fa[fab fa-github-square]
 @size[.4em](marberrym)
 @fa[fab fa-linkedin]
 @size[.4em](Matthew Marberry)
+![Matt](template/img/MMLogoColored.png)
+@size[.4em](matthew-marberry.com)
 @snapend
 
 @snap[north-east template-note text-gray]
