@@ -50,6 +50,8 @@ Split-screen text and image template.
 
 ---?include=ExampleOne.md
 
+---?include=ExampleTwo.md
+
 ---?include=template/md/header-footer/PITCHME.md
 
 ---
