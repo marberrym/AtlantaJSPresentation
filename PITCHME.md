@@ -19,18 +19,33 @@
 
 @title[Overview]
 
-### What you will learn from this talk:
+### Talk Goals:
 
 <br><br>
 
-1. Select only the slide templates that you need.
-1. Customize the template _markdown content_.
-1. Optionally, override template _styles_ and _settings_.
-1. Then present and publish with GitPitch @fa[smile-o]
+1. Learn more about HoC's in a React Environment.
+1. Learn how to build your own HoC's.
+1. Contributions to Open Source..
+1. "Re-usable Code."
 <br><br>
 
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+@title[Text + Image]
+
+@snap[east split-screen-byline text-white]
+Lorem ipsum sit dolor amet, consectetur elit.
+@snapend
+
+@snap[west split-screen-img]
+![DEVELOPER](template/img/developer.jpg)
+@snapend
+
+@snap[south-west template-note text-gray]
+Split-screen text and image template.
+@snapend
 
 ---
+
 @title[Tip! Fullscreen]
 
 ![TIP](template/img/tip.png)
@@ -41,6 +56,8 @@ For the best viewing experience, press F for fullscreen.
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/about/PITCHME.md
+
+---?include=template/md/code-presenting/PITCHME.md
 
 ---?include=template/md/header-footer/PITCHME.md
 
