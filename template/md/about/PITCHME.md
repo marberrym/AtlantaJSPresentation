@@ -3,11 +3,13 @@
 @title[About the dev]
 
 @snap[south text-white span-100]
-@fa[fab fa-github-square](marberrym)
-@fa[fab fa-linkedin](Matthew Marberry)
+@fa[fab fa-github-square]
+@size[.4em](marberrym)
+@fa[fab fa-linkedin]
+@size[.4em](Matthew Marberry)
 @snapend
 
-@snap[east span-40 mypicture]
+@snap[east span-40 about-team-pic]
 ![Matt](https://matthew-marberry.com/images/portfolioPic.jpg)
 @snapend
 

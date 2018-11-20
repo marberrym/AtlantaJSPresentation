@@ -33,9 +33,7 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "<i class='fab fa-github-square'>Github</i>
-<i class='fab fa-linkedin'>Matthew Marberry</i>
-<a href='https://matthew-marberry.com'>matthew-marberry.com</a>"
+footnote : "<a href='https://matthew-marberry.com'>matthew-marberry.com</a>"
 
 #
 # Highlight (Code) Setting
