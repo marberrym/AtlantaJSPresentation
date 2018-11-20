@@ -44,20 +44,11 @@ Lorem ipsum sit dolor amet, consectetur elit.
 Split-screen text and image template.
 @snapend
 
----
-
-@title[Tip! Fullscreen]
-
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
-
 ---?include=template/md/split-screen/PITCHME.md
 
----?include=template/md/about/PITCHME.md
+---?include=AboutMe.md
 
----?include=template/md/code-presenting/PITCHME.md
+---?include=ExampleOne.md
 
 ---?include=template/md/header-footer/PITCHME.md
 
