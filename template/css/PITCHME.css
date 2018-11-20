@@ -303,11 +303,13 @@
 
 .margin-sides {
   margin-left: 1em;
-  margin-right: 1em;
+  margin-right: .25em;
 }
 
 .logo {
   height: 1em;
   width: 1em;
+  margin-left: 1em;
+  margin-right: .25em;
 }
 
