@@ -1,4 +1,4 @@
----?color=lavender
+---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
 @title[HoC Example 1]
 
 ```javascript
