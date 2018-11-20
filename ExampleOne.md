@@ -45,11 +45,11 @@ export default (BaseComponent) =>
 @[26-34](Our wrapper class will then return the **BaseComponent** with the state of **WindowSize** and any props it may have)
 
 @snap[south text-white span-100 footer]
-@fa[fab fa-github-square]
+@fa[fab fa-github-square margin-sides]
 @size[.4em](marberrym)
-@fa[fab fa-linkedin]
+@fa[fab fa-linkedin margin-sides]
 @size[.4em](Matthew Marberry)
-<img src="/template/img/MMLogoColored.png" class="logo">
+<img src="/template/img/MMLogoColored.png" class="logo margin-sides">
 @size[.4em](matthew-marberry.com)
 @snapend
 
