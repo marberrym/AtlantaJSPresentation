@@ -2,23 +2,23 @@
 @title[HoC Example 1]
 
 ```javascript
-//Importing neccessary dependencies from React Library
+//Import Dependencies
 import React, { Component } from 'react';
 
-//Creating a HoC that takes in a Component as an arguement
+//Takes in Component as Arguement
 export default (BaseComponent) => 
     class WindowSize extends Component {
         constructor(props) {
             super(props)
 
-            //Initiates the state's screenWidth and screenHeight as the initial innerWidth and innerHeight of the window
+            //Innitiates State
             this.state = {
                 screenWidth: window.innerWidth,
                 screenHeight: window.innerHeight
             }
         }
         
-        //Adds an event listener on the Window - when it is resized it will reassign the screenWidth and screenHeight in state
+        //Changes State on Resize
         componentDidMount() {
             window.addEventListener('resize', () => {
                 this.setState({
@@ -28,7 +28,7 @@ export default (BaseComponent) =>
             })
         }
 
-        //This will return the BaseComponent with additional states and props.
+        //Returns Base Component
         render() {
             return <BaseComponent 
                 {...this.state}
@@ -38,7 +38,7 @@ export default (BaseComponent) =>
     }
 ```
 
-@[1,2]
+@[1,2](Import dependencies for a class)
 @[4-8]
 @[10-16]
 @[17-25]
