@@ -14,9 +14,9 @@
 @snapend
 
 @snap[north text-black span-100]
-# The Problem
+## The Problem
 @snapend
 
 @snap[center text-black span-100]
-# A responsive navigation bar without using CSS media queries.
+A responsive navigation bar without using CSS media queries.
 @snapend
