@@ -13,10 +13,7 @@
 @size[.4em](matthew-marberry.com)
 @snapend
 
-@snap[north text-black span-100]
-## The Problem
-@snapend
-
-@snap[center text-black span-100]
+@snap[north text-black span-80]
+## The Problem 
 A responsive navigation bar without using CSS media queries.
 @snapend
