@@ -1,5 +1,5 @@
 ---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
-```javascript
+```js
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './navBar.css';
