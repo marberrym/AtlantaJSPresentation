@@ -6,7 +6,7 @@
 @snapend
 
 @snap[south byline text-white]
-@size[1.3em](***Code smarter, not harder!!!***)
+@size[1.3em](**Code smarter, not harder!!!**)
 @snapend
 
 ---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
@@ -51,6 +51,10 @@ Split-screen text and image template.
 ---?include=ProblemOne.md
 
 ---?include=ExampleOne.md
+
+---?include=ImplementOne.md
+
+---?include=ProblemTwo.md
 
 ---?include=ExampleTwo.md
 

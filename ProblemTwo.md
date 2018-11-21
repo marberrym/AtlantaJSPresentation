@@ -1,6 +1,6 @@
 ---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
 
-@title[Problem One]
+@title[Problem Two]
 
 @snap[south text-white span-100 footer]
 @fa[fab fa-github-square margin-sides]
@@ -15,5 +15,5 @@
 
 @snap[north text-black span-80]
 ## The Problem 
-A responsive navigation bar without using CSS media queries.
+A reusable function for handling API requests for information once a component is mounted.
 @snapend
