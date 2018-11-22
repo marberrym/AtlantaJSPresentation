@@ -12,9 +12,11 @@
 @size[.4em](matthew-marberry.com)
 @snapend
 
-@snap[east span-70]
+@snap[north span-100]
 @css[headline](Higher-Order Components)
+@snapend
 
+@snap[midpoint span-90]
 <br>
 @ol 
 - A higher-order component is any function that takes in a component and returns a new component.
@@ -37,9 +39,11 @@
 @size[.4em](matthew-marberry.com)
 @snapend
 
-@snap[east span-70]
-### Pure Functions
+@snap[north span-100]
+@css[headline](Pure Functions)
+@snapend
 
+@snap[midpoint span-90]
 <br>
 
 @ol
