@@ -49,8 +49,6 @@ Lorem ipsum sit dolor amet, consectetur elit.
 Split-screen text and image template.
 @snapend
 
----?include=template/md/split-screen/PITCHME.md
-
 ---?include=AboutMe.md
 
 ---?include=ProblemOne.md
@@ -63,25 +61,14 @@ Split-screen text and image template.
 
 ---?include=ExampleTwo.md
 
----?include=template/md/header-footer/PITCHME.md
-
----
-@title[Higher Order Components]
-
-@snap[west headline span-100]
-Give that presentation boiiiii.
-@snapend
-
----?include=template/md/wrap-up/PITCHME.md
-
 ---
 @title[Questions]
 
-@snap[west headline span-50]
+@snap[north headline span-100]
 @size[.7em](Higher order Components<br>*Any @css[text-blue](Questions?)*)
 @snapend
 
-@snap[east span-50]
+@snap[south span-50]
 Thanks for bearing with me!
 ![Mugen](https://i.imgur.com/ExwkFJR.gif)
 @snapend
