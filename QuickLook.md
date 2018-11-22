@@ -17,9 +17,9 @@
 
 <br><br>
 @ol
-1. Higher Order Components
-1. Examples
-1. Modular Code
-1. Open Source
+- Higher Order Components
+- Examples
+- Modular Code
+- Open Source
 @olend
 <br><br>

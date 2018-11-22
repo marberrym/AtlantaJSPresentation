@@ -17,7 +17,12 @@
 @snap[east split-screen-byline text-white span-50]
 My Journey
 <br><br>
-@css[split-screen-text](The inquisitive mind.)
+@ol
+- @css[split-screen-text](The inquisitive mind.)
+- @css[split-screen-text](Less code, more power.)
+- @css[split-screen-text](Reusable solutions.)
+- @css[split-screen-text](Sharing solutions.)
+@olend
 @snapend
 
 @snap[west split-screen-img]
