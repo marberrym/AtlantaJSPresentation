@@ -15,7 +15,10 @@
 @title[Text + Image]
 
 @snap[east split-screen-byline text-white]
-Why I began my journey into learning more about higher-order components.
+My Journey
+<br><br>
+@css[split-screen-text](The inquisitive mind.)
+
 @snapend
 
 @snap[west split-screen-img]
