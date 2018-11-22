@@ -19,11 +19,11 @@
 A responsive navigation bar without using CSS media queries.
 
 @snap[south-west span-50]
-<img class="navImg" src="./template/img/nav1.png">
+<img class="navImg" src="./template/img/nav1.jpg">
 @snapend
 
 @snap[south-east span-50]
-<img class="navImg" src="./template/img/nav2.png">
+<img class="navImg" src="./template/img/nav2.jpg">
 @snapend
 
 
