@@ -13,7 +13,7 @@
 @snapend
 
 @snap[east span-70]
-### Higher-Order Components
+@css[headline](Higher-Order Components)
 
 <br>
 @ol 
