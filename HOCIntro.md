@@ -16,8 +16,10 @@
 ### Higher-Order Components
 
 <br>
-
-A higher-order component is any function that takes in a component and returns a new component.
+@ol 
+- A higher-order component is any function that takes in a component and returns a new component.
+- Think Redux connect().
+@olend
 
 @snapend
 

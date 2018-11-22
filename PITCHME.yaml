@@ -33,7 +33,7 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : Higher Order Components
+footnote : Higher-order Components
 
 #
 # Highlight (Code) Setting

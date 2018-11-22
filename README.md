@@ -1,4 +1,4 @@
-# <div align="center">**React.js** - Higher Order Components
+# <div align="center">**React.js** - Higher-order Components
 #### <div align="center">*An introduction to HoC's and smart coding.*
 > **<div align="center">"Code smarter, not harder."</div>**
 

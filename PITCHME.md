@@ -2,11 +2,24 @@
 @title[Higher Order Components]
 
 @snap[north headline text-white span-100]
-@size[.7em](**Higher order Components**)
+@size[.7em](**Higher-order Components**)
 @snapend
 
 @snap[south byline text-white]
-@size[1.3em](**Code smarter, not harder!!!**)
+@size[1.3em](**Code smarter, <br> Not harder.**)
+@snapend
+
+---?include=AboutMe.md
+
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+@title[Text + Image]
+
+@snap[east split-screen-byline text-white]
+Why I began my journey into learning more about higher-order components.
+@snapend
+
+@snap[west split-screen-img]
+![DEVELOPER](template/img/developer.jpg)
 @snapend
 
 ---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
@@ -34,24 +47,7 @@
 1. Open Source
 <br><br>
 
----?image=template/img/bg/black.jpg&position=right&size=50% 100%
-@title[Text + Image]
-
-@snap[east split-screen-byline text-white]
-Lorem ipsum sit dolor amet, consectetur elit.
-@snapend
-
-@snap[west split-screen-img]
-![DEVELOPER](template/img/developer.jpg)
-@snapend
-
-@snap[south-west template-note text-gray]
-Split-screen text and image template.
-@snapend
-
 ---?include=HOCIntro.md
-
----?include=AboutMe.md
 
 ---?include=ProblemOne.md
 
@@ -67,7 +63,7 @@ Split-screen text and image template.
 @title[Questions]
 
 @snap[north headline span-100]
-@size[.7em](Higher order Components<br>*Any @css[text-blue](Questions?)*)
+@size[.7em](Higher-order Components<br>*Any @css[text-blue](Questions?)*)
 @snapend
 
 @snap[south span-50]
