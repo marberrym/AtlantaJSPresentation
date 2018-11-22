@@ -17,13 +17,10 @@
 @css[headline](The Problem) 
 <br><br>
 A responsive navigation bar without using CSS media queries.
+<div class="images">
+    <img class="navImg" src="./template/img/nav1.jpg">
+    <img class="navImg" src="./template/img/nav2.jpg">
+</div>
 
-@snap[south-west span-50]
-<img class="navImg" src="./template/img/nav1.jpg">
-@snapend
-
-@snap[south-east span-50]
-<img class="navImg" src="./template/img/nav2.jpg">
-@snapend
 
 
