@@ -14,11 +14,10 @@
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east split-screen-byline text-white]
+@snap[east split-screen-byline text-white span-50]
 My Journey
 <br><br>
 @css[split-screen-text](The inquisitive mind.)
-
 @snapend
 
 @snap[west split-screen-img]
