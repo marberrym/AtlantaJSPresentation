@@ -49,6 +49,8 @@ Lorem ipsum sit dolor amet, consectetur elit.
 Split-screen text and image template.
 @snapend
 
+---?include=HOCIntro.md
+
 ---?include=AboutMe.md
 
 ---?include=ProblemOne.md
