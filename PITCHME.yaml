@@ -33,7 +33,7 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "<a href='https://matthew-marberry.com'>matthew-marberry.com</a>"
+footnote : none
 
 #
 # Highlight (Code) Setting
@@ -45,7 +45,7 @@ highlight : tomorrow-night
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : top
+layout : center
 
 #
 # Transition Setting
