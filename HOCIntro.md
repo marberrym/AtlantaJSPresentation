@@ -24,8 +24,6 @@ A higher-order component is any function that takes in a component and returns a
 
 +++?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
 
-image=template/img/bg/black.jpg&position=right&size=70% 100%
-
 @snap[south text-white span-100 footer]
 @fa[fab fa-github-square margin-sides]
 @size[.4em](marberrym)
@@ -42,8 +40,10 @@ image=template/img/bg/black.jpg&position=right&size=70% 100%
 
 <br>
 
-* The return value is the same for the same argument.
-* It's evaluation has no side effects or mutations.
+@ol
+- The return value is the same for the same argument.
+- It's evaluation has no side effects or mutations.
+@olend
 
 @snapend
 
