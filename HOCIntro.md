@@ -24,9 +24,11 @@ A higher-order component is any function that takes in a component and returns a
 @snap[east span-50]
 ### Pure Functions
 
-<br>
+<br><br>
 
 1. The return value is the same for the same argument.
 1. It's evaluation has no side effects or mutations.
+
+<br><br>
 @snapend
 
