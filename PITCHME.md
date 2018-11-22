@@ -10,23 +10,28 @@
 @snapend
 
 ---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
-@title[Footer Bar + Image Body]
 
-@snap[south text-white span-100]
-@fa[fab fa-github-square margin-sides](marberrym)
-@fa[fab fa-linkedin margin-sides](Matthew Marberry)
+@snap[south text-white span-100 footer]
+@fa[fab fa-github-square margin-sides]
+@size[.4em](marberrym)
+@fa[fab fa-linkedin margin-sides]
+@size[.4em](Matthew Marberry)
+@fa[envelope-o margin-sides]
+@size[.4em](marberrym@gmail.com)
+@fa[globe margin-sides]
+@size[.4em](matthew-marberry.com)
 @snapend
 
 @title[Overview]
 
-### Talk Goals:
+### HoC's a Quick Look:
 
 <br><br>
 
-1. Learn more about HoC's in a React Environment.
-1. Learn how to build your own HoC's.
-1. Contributions to Open Source..
-1. "Re-usable Code."
+1. Higher Order Components
+1. Examples
+1. Modular Code
+1. Open Source
 <br><br>
 
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%

@@ -53,7 +53,7 @@ export default NavBarSmart;
 
 @[1-6](**Import necessary dependencies**)
 @[8-19](**Creates NavBar component**)
-@[20,21](**Checks for user web token and checks the screenWidth which is passed down by out windowSize HoC**)
+@[18,19](**Checks for user web token and checks the screenWidth which is passed down by out windowSize HoC**)
 @[35-37](**If our screenWidth<600 the BurgerNav component will be rendered**)
 @[46-49](**Passes our NavBar compenent into the windowSize HoC, then connects the resulting component to our redux store**)
 
