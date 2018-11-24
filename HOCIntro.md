@@ -40,12 +40,10 @@
 @snapend
 
 @snap[north span-100]
-@css[headline](Pure Functions)
+@css[headline text-blue](Pure Functions)
 @snapend
 
 @snap[midpoint span-90]
-<br>
-
 @ol
 - The return value is the same for the same argument.
 - It's evaluation has no side effects or mutations.
