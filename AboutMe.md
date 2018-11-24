@@ -13,7 +13,7 @@
 @size[.4em](matthew-marberry.com)
 @snapend
 
-@snap[east span-40 about-team-pic]
+@snap[east span-50 split-screen-img]
 ![Matt](https://matthew-marberry.com/images/portfolioPic.jpg)
 @snapend
 
@@ -25,6 +25,4 @@
 @size[.6em](Aims to be a premier app developer, planning to start his own business one day.)
 @snapend
 
-@snap[north span-100]
-@size[.9em](**About the Dev**)
-@snapend
+@css[headline text-blue](About the Dev)

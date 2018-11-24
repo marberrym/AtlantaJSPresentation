@@ -15,6 +15,9 @@
 
 @snap[north headline span-100]
 @size[.6em](Higher-order Components<br>*Any @css[text-blue](Questions?)*)
+@snapend
+
+@snap[midpoint span-60]
 @size[.6em](*@css[text-blue](Thanks for bearing with me!)*)
 ![Mugen](https://i.imgur.com/ExwkFJR.gif)
 @snapend

@@ -13,7 +13,7 @@
 
 @title[Overview]
 
-@css[headline](Overview)
+@css[headline](@css[text-blue](Overview))
 
 <br><br>
 @ol

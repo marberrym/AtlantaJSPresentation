@@ -13,7 +13,7 @@
 @size[.4em](matthew-marberry.com)
 @snapend
 
-@css[headline](The Problem)
+@css[headline](@css[text-blue](The Problem))
 <br><br>
 A reusable function for handling API requests for information once a component is mounted.
 

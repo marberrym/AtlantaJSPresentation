@@ -13,7 +13,7 @@
 @snapend
 
 @snap[north span-100]
-@css[headline](Higher-order Components)
+@css[headline](@css[text-blue](Higher-order Components))
 @snapend
 
 @snap[midpoint span-90]

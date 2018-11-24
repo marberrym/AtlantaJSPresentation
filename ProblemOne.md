@@ -14,7 +14,7 @@
 @snapend
 
 
-@css[headline](The Problem) 
+@css[headline](@css[text-blue](The Problem)) 
 <br><br>
 A responsive navigation bar without using CSS media queries.
 <div class="images">
