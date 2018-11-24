@@ -43,14 +43,6 @@ My Journey
 
 ---?include=ExampleTwo.md
 
----
-@title[Questions]
+---?include=NextSteps.md
 
-@snap[north headline span-100]
-@size[.7em](Higher-order Components<br>*Any @css[text-blue](Questions?)*)
-@snapend
-
-@snap[south span-50]
-Thanks for bearing with me!
-![Mugen](https://i.imgur.com/ExwkFJR.gif)
-@snapend
+---?include=Questions.md
