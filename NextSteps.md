@@ -14,7 +14,7 @@
 @title[Next Steps]
 
 @snap[north span-100]
-@css[headline](Next Steps)
+@css[headline](@css[text-blue](Libraries))
 <br>
 @ul
 - Compose
@@ -27,7 +27,7 @@
 <br>
 @snapend
 
-+++?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
+---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
 
 @snap[south text-white span-100 footer]
 @fa[fab fa-github-square margin-sides]
@@ -43,7 +43,7 @@
 @title[Next Steps]
 
 @snap[north span-100]
-@css[headline](Next Steps - Open Source)
+@css[headline](@css[text-blue](Open Source))
 <br>
 @ul
 - Open Source
