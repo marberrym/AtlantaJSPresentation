@@ -16,4 +16,6 @@
 @css[headline](@css[text-blue](The Problem))
 <br><br>
 A reusable function for handling API requests for information once a component is mounted.
+<br>
+<img class="problemTwoImg" src="./template/img/problemTwo.jpg">
 
