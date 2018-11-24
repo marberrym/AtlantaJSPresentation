@@ -18,9 +18,9 @@
 @snapend
 
 @snap[midpoint span-60]
-*@css[text-blue](Thanks for bearing with me!)*
+***@css[text-blue](Thanks for bearing with me!)***
 ![Mugen](https://i.imgur.com/ExwkFJR.gif)
-*@css[text-blue](Presented with @css[text-orange](GitPitch))*
+@size[.8em](@css[text-blue](Presented with **@css[text-orange](GitPitch)**))
 @snapend
 
 
