@@ -13,7 +13,7 @@
 @size[.4em](matthew-marberry.com)
 @snapend
 
-@snap[east span-50 split-screen-img]
+@snap[east span-40 split-screen-img]
 ![Matt](https://matthew-marberry.com/images/portfolioPic.jpg)
 @snapend
 
