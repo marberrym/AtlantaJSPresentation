@@ -13,9 +13,9 @@
 
 @title[Next Steps]
 
+@snap[north span-100]
 @css[headline](Next Steps)
-
-<br><br>
+<br>
 @ul
 - Compose
     - A great way to chain together HoC's.
@@ -24,7 +24,8 @@
     - A library that is essentially a React "utility belt" of commonly used HoC's.
     - It is still important to know how these work.
 @ulend
-<br><br>
+<br>
+@snapend
 
 +++?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
 
@@ -41,20 +42,20 @@
 
 @title[Next Steps]
 
-@css[headline](Next Steps)
-
-<br><br>
-
+@snap[north span-100]
+@css[headline](Next Steps - Open Source)
+<br>
 @ul
 - Open Source
-    - NPM
-        - A great way to share your code to benefit others.
-        - Get connected in the open source community.
-        - Discover new packages of reusable code.
-        - npmjs.org
-    - Github
-        - A great way to share your code and collaborate on open source projects.
-        - Share your insights and learn from others.
-        - Track your progress.
+    - A great way to share your code to benefit others.
+    - Get connected in the open source community.
+    - Discover new packages of reusable code.
+    - npmjs.org
+- Github
+    - A great way to share your code and collaborate on open source projects.
+    - Share your insights and learn from others.
+    - Track your progress.
+    - Github.com
 @ulend
-<br><br>
+<br>
+@snapend
