@@ -9,13 +9,11 @@
 @size[1.3em](**Code smarter, <br> Not harder.**)
 @snapend
 
----?include=AboutMe.md
-
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
 @snap[east split-screen-byline text-white span-50]
-@css[text-blue](My Journey)
+@css[text-blue](My Beginnings)
 <br><br>
 @ol
 - @css[split-screen-text](The inquisitive mind.)
@@ -25,8 +23,8 @@
 @olend
 @snapend
 
-@snap[west split-screen-img]
-![DEVELOPER](template/img/developer.jpg)
+@snap[west]
+<iframe src="https://giphy.com/embed/ujJfBwPmUDPAEdIYK7" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/light-typing-deathnote-ujJfBwPmUDPAEdIYK7">via GIPHY</a></p>
 @snapend
 
 ---?include=QuickLook.md
@@ -46,5 +44,7 @@
 ---?include=ImplementTwo.md
 
 ---?include=NextSteps.md
+
+---?include=AboutMe.md
 
 ---?include=Questions.md

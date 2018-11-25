@@ -22,7 +22,7 @@
 <br><br>
 @size[.6em](Extensive background in hospitality management, but passionate about software development.)
 <br><br>
-@size[.6em](Aims to be a premier app developer, planning to start his own business one day.)
+@size[.6em](Aims to be a premier app developer, currently looking for a development opportunity.)
 @snapend
 
 @css[headline text-blue](About the Dev)
