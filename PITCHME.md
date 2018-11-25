@@ -23,6 +23,17 @@
 @olend
 @snapend
 
+@snap[south span-100 text-blue footer]
+@fa[fab fa-github-square margin-sides]
+@size[.4em](marberrym)
+@fa[fab fa-linkedin margin-sides]
+@size[.4em](Matthew Marberry)
+@fa[envelope-o margin-sides]
+@size[.4em](marberrym@gmail.com)
+@fa[globe margin-sides]
+@size[.4em](matthew-marberry.com)
+@snapend
+
 @snap[west]
 <iframe src="https://giphy.com/embed/ujJfBwPmUDPAEdIYK7" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/light-typing-deathnote-ujJfBwPmUDPAEdIYK7"></a></p>
 @snapend

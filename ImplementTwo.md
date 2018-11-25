@@ -7,11 +7,6 @@ export default connect()(inject('/goal', {
     headers: {token: localStorage.token}
 })(MyGoalsSmart));
 ```
-
-
-
-
-
 @snap[south text-white span-100 footer]
 @fa[fab fa-github-square margin-sides]
 @size[.4em](marberrym)
