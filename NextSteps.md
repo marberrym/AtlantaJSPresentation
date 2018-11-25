@@ -46,7 +46,7 @@
 @css[headline](@css[text-blue](Open Source))
 <br>
 @fa[fab fa-github-square margin-sides fa-2x]
-<img src="./template/img/Npm-logo.svg" class="npmLogo">
+<img src="./template/img/npm.svg" class="npmLogo">
 <br>
 <iframe src="https://giphy.com/embed/F3JTqsO02SXJhjZKmI" width="480" height="209" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/opensource-github-ricknmorty-F3JTqsO02SXJhjZKmI"></a></p>
 @snapend
