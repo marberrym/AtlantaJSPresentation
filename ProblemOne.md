@@ -17,10 +17,7 @@
 @css[headline](@css[text-blue](The Problem)) 
 <br><br>
 A responsive navigation bar without using CSS media queries.
-<div class="images">
-    <img class="navImg" src="./template/img/nav1.jpg">
-    <img class="navImg" src="./template/img/nav2.jpg">
-</div>
+<iframe src="https://giphy.com/embed/3oh2Hp6UIzO54E04Wc" width="480" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oh2Hp6UIzO54E04Wc">via GIPHY</a></p>
 
 
 
