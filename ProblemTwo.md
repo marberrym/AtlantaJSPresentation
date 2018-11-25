@@ -36,7 +36,6 @@ A reusable function for handling API requests for information once a component i
 
 @snap[north span-100]
 @css[headline text-blue](Requirements)
-<br><br>
 @ol
 - @size[.6em](Can be used for **any @css[text-blue](api endpoint)** with **any type of @css[text-blue](HTTP request).**)
 - @size[.6em](Can store the @css[text-blue](**response data**) in state.)
