@@ -22,7 +22,7 @@
     - Included in @css[text-blue](**React Redux**) Library.
 - @css[text-blue](**Recompose**)
     - A library that is essentially a React "@css[text-blue](**utility belt**)" of commonly used HoC's.
-    - *It is still @css[text-blue](***important***) to know how these work.*
+    - *It is still* @css[text-blue](***important***) *to know how these work.*
 @ulend
 <br>
 @snapend
@@ -45,8 +45,8 @@
 @snap[north span-100]
 @css[headline](@css[text-blue](Open Source))
 <br>
-@fa[fab fa-github-square margin-sides]
-@fa[fab fa-npm margin-sides]
+@fa[fab fa-github-square margin-sides fa-2x]
+<img src="./template/img/Npm-logo.svg" class="npmLogo">
 <br>
 <iframe src="https://giphy.com/embed/F3JTqsO02SXJhjZKmI" width="480" height="209" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/opensource-github-ricknmorty-F3JTqsO02SXJhjZKmI"></a></p>
 @snapend

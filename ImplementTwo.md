@@ -1,12 +1,15 @@
 ---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
+
+@snap[mid-point]
 ```js
 export default connect()(inject('/goal', {
     method: 'GET',
     headers: {token: localStorage.token}
 })(MyGoalsSmart));
 ```
+@snapend
 
-@[1-4](**Export my higher order component**)
+
 
 
 @snap[south text-white span-100 footer]

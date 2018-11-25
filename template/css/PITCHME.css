@@ -82,6 +82,10 @@
   margin: 2em;
 }
 
+.npmLogo {
+  height: 75px
+}
+
 .images {
   display: flex;
   justify-content: space-evenly;
