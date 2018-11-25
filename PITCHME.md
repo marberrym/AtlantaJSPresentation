@@ -13,7 +13,7 @@
 @title[Text + Image]
 
 @snap[east split-screen-byline text-white span-50]
-@css[text-blue](My Beginnings)
+@css[text-blue](**My Beginnings**)
 <br><br>
 @ol
 - @css[split-screen-text](The inquisitive mind.)
