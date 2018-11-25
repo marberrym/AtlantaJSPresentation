@@ -1,13 +1,13 @@
 ---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
 
-@snap[mid-point]
+
 ```js
 export default connect()(inject('/goal', {
     method: 'GET',
     headers: {token: localStorage.token}
 })(MyGoalsSmart));
 ```
-@snapend
+
 
 
 
