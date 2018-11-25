@@ -24,7 +24,7 @@
 @snapend
 
 @snap[west]
-<iframe src="https://giphy.com/embed/ujJfBwPmUDPAEdIYK7" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/light-typing-deathnote-ujJfBwPmUDPAEdIYK7">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ujJfBwPmUDPAEdIYK7" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/light-typing-deathnote-ujJfBwPmUDPAEdIYK7"></a></p>
 @snapend
 
 ---?include=QuickLook.md
