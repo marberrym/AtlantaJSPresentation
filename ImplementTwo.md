@@ -55,7 +55,7 @@ MyGoals.js
     - A list of goals.
     - A list of commented threads.
     - A list of friends.
-- Can render a @css[text-blue](**loading component**) on the screen while the API call is completed.
+- Can render a @css[text-blue](**loading component**) on the screen while the API call is being completed.
 @ulend
 @snapend
 
