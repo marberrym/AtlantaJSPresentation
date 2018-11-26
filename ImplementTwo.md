@@ -8,11 +8,15 @@ render() {
     :
         <GoalList {...props}/>
 }
+
 export default connect()(inject('/goal', {
     method: 'GET',
     headers: {token: localStorage.token}
 })(MyGoalsSmart));
 ```
+@[1-6](Determine whether or not to render the **LoadingSpinner** component based on if **props.loading is true.**)
+@[8-11](Export our **BaseComponent** passed into our **inject HoC**)
+
 @snap[south text-white span-100 footer]
 @fa[fab fa-github-square margin-sides]
 @size[.4em](marberrym)
