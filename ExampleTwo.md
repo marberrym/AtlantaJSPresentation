@@ -37,7 +37,10 @@ export default (path, parameters) => (BaseComponent) =>
         }
 
         render() {
-            return <BaseComponent {...this.state}/>
+            return <BaseComponent 
+            {...this.state}
+            {...this.props}
+            />
         }
     }
 ```
@@ -49,7 +52,7 @@ export default (path, parameters) => (BaseComponent) =>
 @[19-23](Once the response is received it will assign the **response data** to state and return **state.loading** to a value of **FALSE.**)
 @[24-26](If using **Redux** for **state management** then the server will respond with a **res.action** value which will be used to **dispatch** to the **Redux store.**)
 @[27-31](If there is an **error** returned by the request, then **state.loading** will be returned to a value of **FALSE.**)
-@[35-38](This HoC will return the **BaseComponent** with the **updated state.**)
+@[35-40](This HoC will return the **BaseComponent** with the **updated state.**)
 
 
 @snap[south text-white span-100 footer]
