@@ -95,3 +95,7 @@ NavBar.js
 @ulend
 @snapend
 
+@snap[east]
+<iframe src="https://giphy.com/embed/a2euXnuLIgVQA" width="480" height="373" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-lol-game-of-thrones-a2euXnuLIgVQA"></a></p>
+@snapend
+
