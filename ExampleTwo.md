@@ -20,13 +20,7 @@ export default (path, parameters) => (BaseComponent) =>
             fetch(url + path, parameters)
             .then(res => res.json())
             .then(res => {
-                if (res.error === 'jwt expired') {
-                    localStorage.removeItem('token');
-                    this.props.dispatch({type: 'ASSIGN_USER', data: {}})
-                    this.setState({
-                        loading: false
-                    })
-                } else if (!res.error) {
+                if (!res.error) {
                     this.setState({
                         data: res.data,
                         loading: false
@@ -34,6 +28,10 @@ export default (path, parameters) => (BaseComponent) =>
                     if(res.action) {
                         this.props.dispatch({type: res.action, data: res.data});
                     }
+                } else {
+                    this.setState({
+                        loading: false
+                    })
                 }
             })
         }
@@ -46,11 +44,12 @@ export default (path, parameters) => (BaseComponent) =>
 
 @[1,2](Imports necessary dependencies)
 @[4-7](This HoC is a function that gets invoked **"twice"** similar to the redux connect function.  The first invocation requires two arguments, the first is the **API endpoint** and the second is the **request parameters**.  The second invocation requires one argument, **the BaseComponent**.)
-@[7-12](The state is initialized with a value that determines whether or not the component is **loading** data.  The second is a spot for the actual data.)
-@[14-17](Once the component is mounted it will set the state.loading to true and will fire off the fetch request to the API endpoint.)
-@[18-24](For my program, if the server responds that the JWT token is expired, then I will empty my local storage.)
-@[25-33](Once my data is loaded it will assign it to the state and set the loading back to being false.  If my server responds with an action key value pair, I will then send the data off to my redux store.)
-@[37-40](My HoC will return the BaseComponent with the updated state.)
+@[7-12](The state is initialized with a value that determines whether or not the component is **loading** data.  The second is a spot for the **response data.**)
+@[14-18](Once the component is **mounted** it will set the **state.loading** to **TRUE** and will fire the request to the **API endpoint.**)
+@[19-23](Once the response is received it will assign the **response data** to state and return **state.loading** to a value of **FALSE.**)
+@[24-26](If using **Redux** for **state management** then the server will respond with a **res.action** value which will be used to **dispatch** to the **Redux store.**)
+@[27-31](If there is an **error** returned by the request, then **state.loading** will be returned to a value of **FALSE.**)
+@[35-38](This HoC will return the **BaseComponent** with the **updated state.**)
 
 
 @snap[south text-white span-100 footer]
