@@ -18,8 +18,8 @@
 @snap[west span-50]
 <br>
 @ol
-- Higher Order Components
-- Examples
+- Higher-order Components
+- Useful Examples
 - Modular Code
 - Open Source
 @olend
