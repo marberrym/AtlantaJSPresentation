@@ -87,11 +87,12 @@ NavBar.js
 
 @css[headline text-blue](Reusability)
 
-@snap[north text-black]
+@snap[east text-black span-50]
 @ul
-- @size[.5em](Any component passed into @css[text-blue](**windowSize()**) will have the window dimensions passed down as props.)
-- @size[.5em](We can use this to change @css[text-blue](**which components**) will be rendered on the screen based on the window dimensions.)
-- @size[.5em](Can be used to @css[text-blue](**proritize the importance**) of space and UI on mobile vs. computer.)
+@size[.5em](
+- Any component passed into @css[text-blue](**windowSize HoC**) will have the window dimensions passed down as props.
+- We can use this to change @css[text-blue](**which components**) will be rendered on the screen based on the window dimensions.
+- Can be used to @css[text-blue](**proritize the importance**) of space and UI on mobile vs. computer.)
 @ulend
 @snapend
 
