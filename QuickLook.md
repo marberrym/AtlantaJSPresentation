@@ -15,6 +15,7 @@
 
 @css[headline](@css[text-blue](Overview))
 
+@snap[west span-50]
 <br>
 @ol
 - Higher Order Components
@@ -23,3 +24,8 @@
 - Open Source
 @olend
 <br>
+@snapend
+
+@snap[east]
+<iframe src="https://giphy.com/embed/lSVL6vdhdZVPW" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lSVL6vdhdZVPW"></a></p>
+@snapend
