@@ -71,3 +71,27 @@ export default NavBarSmart;
 @snap[north-east template-note text-gray]
 NavBar.js
 @snapend
+
+---?image=template/img/bg/gray.jpg&position=bottom&size=100% 15%
+
+@snap[south text-white span-100 footer]
+@fa[fab fa-github-square margin-sides]
+@size[.4em](marberrym)
+@fa[fab fa-linkedin margin-sides]
+@size[.4em](Matthew Marberry)
+@fa[envelope-o margin-sides]
+@size[.4em](marberrym@gmail.com)
+@fa[globe margin-sides]
+@size[.4em](matthew-marberry.com)
+@snapend
+
+@css[headline text-blue](Reusability)
+
+@snap[north text-black]
+@ul
+- @size[.5em](Any component passed into @css[text-blue](**windowSize()**) will have the window dimensions passed down as props.)
+- @size[.5em](We can use this to change @css[text-blue](**which components**) will be rendered on the screen based on the window dimensions.)
+- @size[.5em](Can be used to @css[text-blue](**proritize the importance**) of space and UI on mobile vs. computer.)
+@ulend
+@snapend
+
