@@ -39,7 +39,7 @@ footnote : Higher-order Components
 # Highlight (Code) Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
 #
-highlight : night
+highlight : atelier-cave-dark
 
 #
 # Layout Setting
