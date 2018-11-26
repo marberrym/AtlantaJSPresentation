@@ -46,6 +46,11 @@
   background-color: white !important;
 }
 
+.recap-slide {
+  font-size: .6em;
+  text-align: center;
+}
+
 /* List-Content Template Styles */
 
 .list-content-concise li {

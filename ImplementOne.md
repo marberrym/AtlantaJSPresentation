@@ -87,7 +87,7 @@ NavBar.js
 
 @css[headline text-blue](Reusability)
 
-@snap[west text-black span-50 split-screen-text]
+@snap[west text-black span-50 recap-slide]
 @ul
 - Any component passed into @css[text-blue](**windowSize HoC**) will have the window dimensions passed down as props.
 - We can use this to change @css[text-blue](**which components**) will be rendered on the screen based on the window dimensions.
