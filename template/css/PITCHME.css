@@ -47,8 +47,8 @@
 }
 
 .recap-slide {
-  font-size: .6em;
-  text-align: center;
+  font-size: .6em !important;
+  text-align: left !important;
 }
 
 /* List-Content Template Styles */
